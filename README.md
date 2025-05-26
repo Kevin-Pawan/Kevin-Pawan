@@ -1,12 +1,12 @@
 ## Hi there, It's me Pawan 👋
 
-🚀 Tech Enthusiast | Cloud & DevOps Engineer | Open-Source Contributor
-📰 Certified AWS solution Architect
-📝 Contributor to several DevOps and Cloud projects
-🤝 Active in the developer community and tech forums
-🎤 Speaking at tech meetups and conferences
-📖 Always learning, sharing, and mentoring
-🌍 Driving innovation in cloud-native technologies
+🚀 Tech Enthusiast | Cloud & DevOps Engineer | Open-Source Contributor<br/>
+📰 Certified AWS solution Architect<br/>
+📝 Contributor to several DevOps and Cloud projects<br/>
+🤝 Active in the developer community and tech forums<br/>
+🎤 Speaking at tech meetups and conferences<br/>
+📖 Always learning, sharing, and mentoring<br/>
+🌍 Driving innovation in cloud-native technologies<br/>
 
 
 ## 🌐 Socials:
